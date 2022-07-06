@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints the single digit numbers
+ * print_alphabet - prints the lowercase alphabet
  *  and followed by new line
  *  Return: always 0 (Success)
  */
@@ -14,5 +14,5 @@ void print_alphabet(void)
 	{
 		_putchar(j);
 	}
-	_putchar('\n') ;
+	_putchar('\n');
 }
