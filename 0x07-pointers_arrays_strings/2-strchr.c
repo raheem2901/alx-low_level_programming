@@ -1,7 +1,7 @@
-include "main.h"
+#include "main.h"
 
 /**
- * strchr - string char
+ * _strchr - string char
  * @s: string given
  * @c: character
  * Return: a string
